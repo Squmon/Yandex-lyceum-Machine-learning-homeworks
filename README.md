@@ -1,0 +1,1 @@
+this repository contains all home works (and something that i can't indentify) from [Yandex lyceum](https://lyceum.yandex.ru/) cources
