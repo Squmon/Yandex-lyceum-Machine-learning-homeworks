@@ -99,52 +99,6 @@ Introduction to neural networks and deep learning with PyTorch.
 
 ---
 
-### 05 Graph Analysis & Network Theory
-
-Analysis of network structures and relationships.
-
-**Topics Covered:**
-- Graph theory fundamentals
-- Social network analysis
-- Network statistics and metrics
-- Data structures for graph representation
-- Community detection and connectivity
-
-**Skills Developed:**
-- Graph theory and algorithms
-- Network analysis
-- Data structure design
-- Statistical analysis of network properties
-
-**Key Files:**
-- `05_graph_analysis/social_networks/` - Social network analysis projects
-
----
-
-### 06 Data Analysis Projects
-
-End-to-end machine learning projects with real datasets.
-
-**Topics Covered:**
-- Water quality data analysis and prediction
-- Penguin dataset exploration and modeling
-- Complete data pipeline: loading, cleaning, exploration, modeling
-- Statistical analysis and inference
-- Model comparison and selection
-
-**Skills Developed:**
-- Full machine learning pipeline
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Model evaluation and comparison
-- Business problem solving with ML
-
-**Key Files:**
-- `06_data_analysis_projects/water_quality/` - Water quality analysis and prediction
-- `06_data_analysis_projects/penguin_analysis/` - Penguin species classification
-
----
-
 ## Technology Stack
 
 ### Core Libraries
